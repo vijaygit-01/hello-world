@@ -1,1 +1,2 @@
-lambda trigger s3 object read file this is 2nd version
+# This program prints Hello, World!
+print("Hello, World!")
